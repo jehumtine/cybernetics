@@ -2,6 +2,15 @@
 	Jehu Mtine .N
 	Monday May 8 2023
 	Truth and correctness
+	In the below code, the adjustments of the guesses are influenced by the target value and the guesses of other units, but the impact of other units is reduced compared to the target influence.
+
+	The `adjustGuess` method now calculates the adjustments based on three factors:
+
+-   `	targetInfluence` determines the influence of the target on the adjustment. It is set to 0.7, indicating a higher impact of the target compared to the other units.
+-   `	otherUnitsInfluence` determines the influence of other units on the adjustment. It is set to 0.1, indicating a lower impact of other units compared to the target.
+-   `	adjustmentFactor` is a random adjustment factor between 0 and 0.1, which introduces variability and exploration.
+
+	The adjustment of each unit's guess is a combination of the target adjustment (`targetAdjustment`) and the adjustment
 */
 
 
