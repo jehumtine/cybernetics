@@ -1,8 +1,7 @@
 # cybernetics
-This Repository is a collection of philosophical and mathematical deriviations
-it is organised in chapters
-# CHAPTER 1 
-# Truth
+This Repository is a collection of philosophical and mathematical deriviations.
+It is organised in chapters
+# CHAPTER 1 || Truth
 In the realm of achieving correctness without explicit guidance, an intriguing question emerges: How can one find answers in the absence of predefined truths or external direction? Can one, born in darkness, seek the light without ever witnessing its radiance or comprehending its form?
 Consider the phenomenon witnessed in nature—the synchronized flight of a flock of birds. Within this mesmerizing spectacle lies a parallel to the truth5 code written in Java. Each bird in the flock behaves as an individual unit, adjusting its flight path based on the movements of its fellow birds. Remarkably, there is no central command or prescribed flight plan dictating their synchronized motion.
 
